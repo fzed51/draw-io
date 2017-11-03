@@ -1,6 +1,6 @@
 # draw-io
 
-sauvegarde des diagrames de draw.io
+sauvegarde des diagrammes de draw.io
 
 ## Utilisation.
 
